@@ -1,0 +1,146 @@
+
+*{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+
+/* home page start */
+ .row.mobile{margin: 34px 0px;
+    --bs-gutter-x: 4rem; } 
+
+
+    .view{
+      background-image: url('images/view.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 250px;
+    }
+    .searchbar{
+      margin-top: 100px;
+    }
+     
+  /* home page end  */
+
+
+  /* about page start */
+
+/* .img{
+    width: 100%;
+    margin: 0px auto;
+    display: block;
+}  */
+ /* .services .row{
+    padding-right: 0px;
+    padding-left: 0px;
+}  */
+
+
+.aboutfontsize{
+  font-size: 100px;
+  font-family: 'Kiwi Maru', serif;
+}
+
+
+.greencolor:hover{
+  color: green;
+}
+/* about page end */
+
+  
+/* services page start */
+/* .services .row>*  {padding-right: 0; 
+     padding-left: 0;} */
+    
+     /* services page end */
+
+     
+
+     .horizontal{
+       margin: 34px 0px;
+
+     }
+
+     
+      .row{
+        --bs-gutter-x: 0rem;
+         
+     } 
+
+
+     /* form start */
+     .formmargin{
+       margin: 34px 0px;
+     }
+     /* this is for tranparent form */
+      /* .bgnone{
+       background: none;
+       outline: none;
+     }
+     .hov:hover{
+      background: none;
+      outline: none;
+      
+      
+    
+    }  */
+     /* form end */
+
+
+     /* help start */
+     .help{
+       background-image: url('images/help.jpg');
+       background-repeat: no-repeat;
+       background-size: cover;
+     }
+
+      .line{
+       width: 300px;
+     }
+
+     .iconcolor{
+  background-color: black;
+     }
+       
+
+
+     /* help end */
+
+
+     /* footer start */
+     .cursor:hover{
+      text-decoration: underline;
+      cursor: pointer;
+     }
+     .font-size{
+       font-size: 13px;}
+     .line-height{
+       line-height: 9px;
+
+     }
+     .colorchange{
+       color: grey;
+     }
+     
+     /* footer end */
+
+
+     
+    
+    
+    
+   
+
+
+
+
+     
+     
+     
+
+
+
+
+
+
